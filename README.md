@@ -7,10 +7,6 @@ It is an Angular single-page application (SPA) that allows users to input a GitH
 - User-friendly interface for entering GitHub usernames.
 - Real-time display of public repositories for the specified user.
 
-## Installation
-
-1. Fork this repository to your github account.
-2. Clone the forked repository and proceed with steps mentioned below.
 
 ### Install requirements
 * Install angular cli [Ref](https://angular.io/cli)
